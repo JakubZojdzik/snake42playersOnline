@@ -4,7 +4,7 @@ import pickle
 import time
 from threading import Thread
 
-server = "100.118.124.114"
+server = "Your ip address"
 
 port = 5556
 started = 3
